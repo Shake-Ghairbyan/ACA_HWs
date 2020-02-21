@@ -1,0 +1,26 @@
+	Numbers, Strings, Loops, Arrays.
+
+Given a number n ( n > 0 ). Print Fibonacci series up to n.
+
+
+
+Write a program which will give you all of the potential combinations of a two-digit decimal combination, printed in a comma delimited format
+	‘00’, ‘01’, ‘02’, …, ‘98’, ‘99’.
+
+
+Insert a number. Calculate product and sum of the digits of the number. If product is divisible by the sum, print the quotient, otherwise print the remainder.
+
+
+
+
+
+Given an array of numbers. Find the maximum and minimum elements in array. Calculate their difference and check is there such an element in the array or not.
+
+
+
+
+Given an array of numbers. Find the index of the second maximum element.
+
+
+
+Given an array of numbers, padding amount and repeat count. Pad the array in the following way: the padding amount specifies how many elements should be taken from the array edges, the repeat amount specifies how many times the pad should be repeated. Also, you should check that  padding amount <= length of array.

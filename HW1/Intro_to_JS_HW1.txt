@@ -1,0 +1,17 @@
+Given two numbers print 1 if one of them is divisible by the other one, otherwise print 0.(Hint: use maximum 1 “if” statement).	
+
+Given two variables, which are the angles of a triangle. Find the third angle of the triangle. (Sum of the angles of a triangle equals 180 degrees).
+
+Given number n (positive integer). Print the value of n + nn + nnn(not multiplication).
+
+Given a positive integer. Bring the last digit of the number to the beginning. Print the new number. If the last digit of the inserted number is 0, number remains the same.
+
+Given five numbers as input. Calculate and print the average of the numbers(without using arrays).
+
+Check if a number is a multiple of 3, 5 or 7 and output the appropriate message.
+
+Find the sign of product of three numbers without multiplication operator. Display the specified sign.
+
+Insert a digit and a number. Check whether the digits contains in the number or not.
+
+Enter a number. Reverse its first and last digits. Print the new number.
